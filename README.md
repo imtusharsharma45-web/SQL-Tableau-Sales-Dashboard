@@ -3,29 +3,66 @@
 ## Project Overview
 This project analyzes sales performance using SQL Server and Tableau.
 
+## 📊 Sales Performance Dashboard
+
+Business Problem
+
+Company ko apni sales performance samajhne me dikkat ho rahi thi. Management ye dekhna chahta tha:
+
+Overall Sales kitni hui?
+Profit kitna hua?
+Kis Category ki sales sabse zyada hai?
+Kis Region me sabse zyada profit hai?
+Top selling products kaun se hain?
+Kis State me sabse zyada sales hui?
+Monthly sales trend kaisa raha?
+
+## Dashboard KPIs
+Total Sales
+Total Orders
+Total Profit
+
+## Dashboard Visuals
+📈 Monthly Sales Trend
+🥧 Sales Distribution by Category
+📊 Regional Profit Analysis
+🗺 Sales Distribution by State
+📋 Top 10 Products by Sales
+
+## Filters
+Region
+Category
+
 ## Tools Used
-- SQL Server
-- Tableau
-- CSV Dataset
+SQL Server
+Tableau
+CSV Dataset
 
-## Features
-- KPI Cards
-- Sales by Category
-- Profit by Category
-- Sales by Region
-- Top 10 Products Analysis
-- Interactive Filters
+## Sample Superstore Dataset
+Key Insights 
+Technology category generated the highest sales.
+West region contributed the highest profit.
+California recorded the highest sales.
+Sales showed an upward trend toward the end of the year.
+A few products contributed a significant portion of total sales.
 
-## Dashboard Preview
-(Add dashboard screenshot here)
+## Skills Demonstrated
+Dashboard Design
+Data Visualization
+KPI Development
+Interactive Dashboard
+Business Analysis
+Data Storytelling
 
-## Key Insights
-- Technology category generated highest sales
-- West region contributed highest revenue
-- Top-selling products identified
 
-## Project Structure
-- dataset/
-- tableau/
-- screenshots/
-- SQL_queries.sql
+## GitHub Folder Structure
+Sales-Performance-Dashboard/
+│
+├── Dashboard.twbx
+├── Dashboard.png
+├── README.md
+├── Dataset/
+│   └── Sample Superstore.xlsx
+└── Screenshot/
+    └── Dashboard Screenshot.png
+
