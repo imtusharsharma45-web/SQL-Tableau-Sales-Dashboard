@@ -23,11 +23,12 @@ Total Orders
 Total Profit
 
 ## Dashboard Visuals
-📈 Monthly Sales Trend
-🥧 Sales Distribution by Category
-📊 Regional Profit Analysis
-🗺 Sales Distribution by State
-📋 Top 10 Products by Sales
+Monthly Sales Trend
+Sales Distribution by Category
+Regional Profit Analysis
+Sales Distribution by State
+Top 10 Products by Sales
+Discount Vs Profit
 
 ## Filters
 Region
@@ -45,6 +46,7 @@ West region contributed the highest profit.
 California recorded the highest sales.
 Sales showed an upward trend toward the end of the year.
 A few products contributed a significant portion of total sales.
+Tables & Bookcases sub-categories show negative profit despite high sales — indicating discount levels above sustainable margin thresholds.
 
 ## Skills Demonstrated
 Dashboard Design
